@@ -1,0 +1,48 @@
+{
+    "name": "Iván Ezequiel Morales",
+    "backImage":"../assets/img/skills.jpg",
+    "position":"ingeniero",
+    "imagenfondo":"../assets/img/fondo2.jpg",
+    "company":{
+        "name":["conicet","unsa","jd"]
+    },
+    "servicios":[
+            {
+                "name":"Desarrollo web",
+                "descripcion":"Programo tu sitio web desde cero o de acuerdo a tus ideas, utilizando tecnologías como HTML5, CSS3, PHP, JavaScript, jQuery, BootStrap, Responsive, MySQL, React...",
+                "icono":"fa-solid fa-code",
+                "tags":["1Web","1app","1SAP"]
+            },
+            {
+                "name":"ciberseguridad",
+                "descripcion":"Programo tu sitio web desde cero o de acuerdo a tus ideas, utilizando tecnologías como HTML5, CSS3, PHP, JavaScript, jQuery, BootStrap, Responsive, MySQL, React...",
+                "icono":"fa-solid fa-user-secret",
+                "tags":["2Web","2app","2SAP"]
+            },
+            {
+                "name":"consulting",
+                "descripcion":"Programo tu sitio web desde cero o de acuerdo a tus ideas, utilizando tecnologías como HTML5, CSS3, PHP, JavaScript, jQuery, BootStrap, Responsive, MySQL, React...",
+                "icono":"fa-solid fa-file-code",
+                "tags":["3Web","3app","3SAP"]
+            }
+        ],
+    
+    "portafolios":[
+        {
+            "nombre":"static calc",
+            "descripcion":"proyecto de programacion",
+            "imagen":"../assets/img/portfolio1.jpg"
+        },
+        {
+            "nombre":"static calc",
+            "descripcion":"proyecto de programacion",
+            "imagen":"../assets/img/portfolio2.jpg"
+        },
+        {
+            "nombre":"static calc",
+            "descripcion":"proyecto de programacion",
+            "imagen":"../assets/img/portfolio3.jpg"
+        }
+    ]
+   
+}
